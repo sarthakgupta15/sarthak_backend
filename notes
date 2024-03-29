@@ -42,6 +42,10 @@ package
 --api development
 --authentication and authorization
 -- error handling
-- middleware
+
+-middleware
+it is a function which runs before any route.
+problem-if our middleware runs so request fets jammed and doesnt reach till route.
+
 -session and cookies
 
